@@ -1,0 +1,13 @@
+An XML document contains XML Elements.
+
+What is an XML Element?
+An XML element is everything from (including) the element's start tag to (including) the element's end tag.
+<price>29.99</price>
+
+
+An element can contain:
+
+text
+attributes
+other elements
+or a mix of the above
