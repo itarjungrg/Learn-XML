@@ -1,0 +1,12 @@
+XML elements can have attributes, just like HTML.
+
+Attributes are designed to contain data related to a specific element.
+
+XML Attributes Must be Quoted
+Attribute values must always be quoted. Either single or double quotes can be used.
+
+For a person's gender, the <person> element can be written like this:
+<person gender="female">
+
+or like this:
+<person gender='female'>
