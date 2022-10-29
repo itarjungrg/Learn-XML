@@ -1,0 +1,13 @@
+XML Documents Must Have a Root Element
+XML documents must contain one root element that is the parent of all other elements:
+
+<root>
+  <child>
+    <subchild>.....</subchild>
+  </child>
+</root>
+
+
+The XML Prolog
+This line is called the XML prolog:
+<?xml version="1.0" encoding="UTF-8"?>
